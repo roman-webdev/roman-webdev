@@ -10,13 +10,13 @@ I build responsive websites, web applications, and automation tools with a focus
 
 ## 🚀 Featured Projects
 
-### 💈 MANOR
+### 💈 [MANOR HOUSE](https://github.com/roman-webdev/MANOR-HOUSE)
 
 Barbershop booking and management system designed to simplify appointments and service management.
 
 **Focus:** Web Development • Booking System • Business Automation
 
-### 🚗 DriveFix
+### 🚗 [DriveFix](https://github.com/roman-webdev/DRIVEFIX)
 
 Responsive auto service website focused on presenting services and providing a clear customer experience across desktop, tablet, and mobile devices.
 
