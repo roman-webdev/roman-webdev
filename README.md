@@ -12,13 +12,13 @@ I build responsive websites, web applications, and automation tools with a focus
 
 ### 💈 [MANOR HOUSE](https://github.com/roman-webdev/MANOR-HOUSE)
 
-Barbershop booking and management system designed to simplify appointments and service management.
+Multilingual barbershop booking website and protected admin CRM (EN / RU / UA) for client management, scheduling, analytics, and Telegram notifications.
 
 **Focus:** Web Development • Booking System • Business Automation
 
 ### 🚗 [DriveFix](https://github.com/roman-webdev/DRIVEFIX)
 
-Responsive auto service website focused on presenting services and providing a clear customer experience across desktop, tablet, and mobile devices.
+Multilingual responsive auto service website (EN / RU / UA) with a backend API and Telegram booking integration, providing a clear customer experience across desktop, tablet, and mobile devices.
 
 **Focus:** Frontend Development • Responsive Design • UI/UX
 
