@@ -22,7 +22,7 @@ Responsive auto service website focused on presenting services and providing a c
 
 **Focus:** Frontend Development • Responsive Design • UI/UX
 
-### 💰 SmartSave
+### 💰 [SmartSave](https://github.com/roman-webdev/SmartSave)
 
 Telegram personal finance assistant for tracking income and expenses, managing budgets and financial goals, importing transactions, and generating financial insights.
 
