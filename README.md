@@ -16,6 +16,30 @@ Multilingual barbershop booking website and protected admin CRM (EN / RU / UA) f
 
 **Focus:** Web Development • Booking System • Business Automation
 
+### 🛍️ ShopFlow — Full-Stack E-commerce Platform
+
+Multilingual e-commerce platform with product variants, persistent cart, checkout, order management and a protected admin dashboard.
+
+**Key features:**
+- EN / RU / UA interface
+- 18-product catalog with search, filters and sorting
+- Product variants, colorways and variant-specific pricing
+- Wishlist, recently viewed products and comparison
+- Persistent shopping cart and checkout
+- Protected admin dashboard
+- Product and image management
+- Order management with status history
+- Neon PostgreSQL database
+- Stripe test/demo checkout
+- Optional Telegram notifications
+- 28 automated tests
+- Production deployment on Render
+
+**Tech:** Python · Flask · PostgreSQL · SQLAlchemy · JavaScript · HTML · CSS · Stripe API · Telegram Bot API · Neon · Render
+
+🌐 [Live Demo](https://shopflow-q6r6.onrender.com)  
+💻 [Source Code](https://github.com/roman-webdev/ShopFlow)
+
 ### 🚗 [DriveFix](https://github.com/roman-webdev/DRIVEFIX)
 
 Multilingual responsive auto service website (EN / RU / UA) with a backend API and Telegram booking integration, providing a clear customer experience across desktop, tablet, and mobile devices.
