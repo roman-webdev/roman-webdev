@@ -10,33 +10,58 @@ I build responsive websites, web applications, and automation tools with a focus
 
 ## 🚀 Featured Projects
 
-### 💈 [MANOR HOUSE](https://github.com/roman-webdev/MANOR-HOUSE)
+### 💈 [MANOR HOUSE](https://github.com/roman-webdev/MANOR-HOUSE) — Booking & CRM System
 
-Multilingual barbershop booking website and protected admin CRM (EN / RU / UA) for client management, scheduling, analytics, and Telegram notifications.
+Multilingual barbershop booking platform with online scheduling, PostgreSQL database, Telegram notifications and a protected CRM dashboard for managing clients, bookings and business operations.
 
-**Focus:** Web Development • Booking System • Business Automation
+**Focus:** Web Development · Booking Systems · Business Automation  
+**Stack:** Python · Flask · PostgreSQL · JavaScript · Telegram API · Neon · Render
+
+🌐 [Live Demo](https://manor-house.onrender.com) · 💻 [Source Code](https://github.com/roman-webdev/MANOR-HOUSE)
+
+---
 
 ### 🛍️ [ShopFlow](https://github.com/roman-webdev/ShopFlow) — Full-Stack E-commerce Platform
 
 Multilingual e-commerce platform with product variants, persistent cart, checkout, PostgreSQL order management and a protected admin dashboard.
 
-**Focus:** E-commerce · Full-Stack Development · Business Automation
-
-**Stack:** Python · Flask · PostgreSQL · SQLAlchemy · JavaScript · Stripe API · Telegram API · Neon · Render
+**Focus:** E-commerce · Full-Stack Development · Business Automation  
+**Stack:** Python · Flask · PostgreSQL · SQLAlchemy · JavaScript · Stripe API · Neon · Render
 
 🌐 [Live Demo](https://shopflow-q6r6.onrender.com) · 💻 [Source Code](https://github.com/roman-webdev/ShopFlow)
 
-### 🚗 [DriveFix](https://github.com/roman-webdev/DRIVEFIX)
+---
 
-Multilingual responsive auto service website (EN / RU / UA) with a backend API and Telegram booking integration, providing a clear customer experience across desktop, tablet, and mobile devices.
+### 🚗 [DriveFix](https://github.com/roman-webdev/DRIVEFIX) — Auto Service Website
 
-**Focus:** Frontend Development • Responsive Design • UI/UX
+Multilingual responsive auto-service website with service booking, frontend and server-side validation, backend API and Telegram integration for receiving customer requests.
 
-### 💰 [SmartSave](https://github.com/roman-webdev/SmartSave)
+**Focus:** Web Development · Responsive Design · API Integration  
+**Stack:** Python · Flask · JavaScript · HTML · CSS · Telegram API · Render
 
-Telegram personal finance assistant for tracking income and expenses, managing budgets and financial goals, importing transactions, and generating financial insights.
+💻 [Source Code](https://github.com/roman-webdev/DRIVEFIX)
 
-**Focus:** Python • Telegram Bot • SQLite • Automation
+---
+
+### 💰 [SmartSave](https://github.com/roman-webdev/SmartSave) — Personal Finance Telegram Assistant
+
+Telegram finance assistant for tracking income and expenses, managing budgets and savings goals, importing bank transactions and generating financial insights.
+
+**Focus:** Python · Telegram Bots · Automation · Financial Tools  
+**Stack:** Python · aiogram · SQLite · Telegram Bot API · CSV Processing
+
+💻 [Source Code](https://github.com/roman-webdev/SmartSave)
+
+---
+
+### 👨‍💻 Personal Portfolio — Full-Stack Developer Portfolio
+
+Responsive multilingual developer portfolio showcasing production projects, technical skills and live applications with a clean interface optimized for desktop, tablet and mobile.
+
+**Focus:** Portfolio Development · Frontend · Responsive Design  
+**Stack:** HTML · CSS · JavaScript · Vercel
+
+🌐 [Live Demo](https://roman-webdev.vercel.app)
 
 ---
 
