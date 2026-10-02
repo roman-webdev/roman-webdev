@@ -45,7 +45,7 @@ Multilingual responsive auto-service website with service booking, frontend and 
 
 ### 💰 [SmartSave](https://github.com/roman-webdev/SmartSave) — Personal Finance Telegram Assistant
 
-Telegram finance assistant for tracking income and expenses, managing budgets and savings goals, importing bank transactions and generating financial insights.
+SmartSave Beta 1.3.14 — Telegram finance assistant for tracking income and expenses, managing budgets and savings goals, importing bank transactions and generating financial insights. Release Candidate / controlled beta deployment in an Oracle Linux deployment context; 454 automated tests passed, 0 skipped. Languages: UA / EN / RU.
 
 **Focus:** Python · Telegram Bots · Automation · Financial Tools  
 **Stack:** Python · aiogram · SQLite · Telegram Bot API · CSV Processing
