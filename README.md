@@ -10,6 +10,20 @@ I build responsive websites, web applications, and automation tools with a focus
 
 ## 🚀 Featured Projects
 
+### [AstraSynq](https://github.com/roman-webdev/AstraSynq) — Data Automation & Integration Platform
+
+Full-stack data automation with CSV validation and deduplication, authentication and RBAC, and reliable webhook / Telegram delivery through a transactional outbox with retries. EN / UA / RU interface and an immersive WebGL landing.
+
+**Stack:** FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy / Alembic
+
+**Delivery:** Hosted CI · Render Free + Neon Free · Live synthetic demo
+
+**Status:** Release Candidate / synthetic demo — not production-ready.
+
+🌐 [Live Demo](https://astrasynq-synthetic-demo.onrender.com/) · 💻 [GitHub](https://github.com/roman-webdev/AstraSynq)
+
+---
+
 ### 💈 [MANOR HOUSE](https://github.com/roman-webdev/MANOR-HOUSE) — Booking & CRM System
 
 Multilingual barbershop booking platform with online scheduling, PostgreSQL database, Telegram notifications and a protected CRM dashboard for managing clients, bookings and business operations.
