@@ -10,6 +10,18 @@ I build responsive websites, web applications, and automation tools with a focus
 
 ## 🚀 Featured Projects
 
+### [HELIXPRIMUS](https://github.com/roman-webdev/HELIXPRIMUS) — AI Customer Operations Platform
+
+Portfolio-grade demo customer operations workspace with Inbox, AI Analysis, Knowledge Base, SLA, analytics, human approval flow, Audit/Timeline, and EN/RU/UA.
+
+**Stack:** FastAPI · React · TypeScript · SQLAlchemy · Alembic · SQLite / PostgreSQL-ready
+
+**Status:** Portfolio Release Candidate / demo-grade — not production-ready.
+
+🌐 [Live Demo](https://helixprimus.vercel.app/) · 💻 [GitHub](https://github.com/roman-webdev/HELIXPRIMUS)
+
+---
+
 ### [AstraSynq](https://github.com/roman-webdev/AstraSynq) — Data Automation & Integration Platform
 
 Full-stack data automation with CSV validation and deduplication, authentication and RBAC, and reliable webhook / Telegram delivery through a transactional outbox with retries. EN / UA / RU interface and an immersive WebGL landing.
