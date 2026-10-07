@@ -1,8 +1,8 @@
 # Roman 👋
 
-### Full-Stack Developer | Web Development & Automation
+### Full-Stack / Backend Developer | Python, FastAPI, APIs & Automation
 
-I build responsive websites, web applications, and automation tools with a focus on practical functionality, clean interfaces, and reliable deployment.
+I build Python backends, API integrations, and automation tools, with React / TypeScript interfaces and a focus on practical functionality and reliable deployment.
 
 🌐 **Portfolio:** https://roman-webdev.vercel.app
 
@@ -95,31 +95,49 @@ Responsive multilingual developer portfolio showcasing production projects, tech
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-HTML-informational?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-CSS-informational?logo=css)
-![JavaScript](https://img.shields.io/badge/JavaScript-JS-informational?logo=javascript)
+![React](https://img.shields.io/badge/React-informational?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-informational?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-informational?logo=css)
 
-**Backend & Automation**
+**Backend**
 
-![Python](https://img.shields.io/badge/Python-Python-informational?logo=python)
-![SQLite](https://img.shields.io/badge/SQLite-Database-informational?logo=sqlite)
-![Telegram](https://img.shields.io/badge/Telegram-Bots-informational?logo=telegram)
-![aiogram](https://img.shields.io/badge/aiogram-Framework-informational)
+![Python](https://img.shields.io/badge/Python-informational?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-informational?logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-informational?logo=flask)
+![REST API](https://img.shields.io/badge/REST%20API-informational)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-informational?logo=sqlite)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-informational?logo=sqlalchemy)
+![Alembic](https://img.shields.io/badge/Alembic-informational)
+
+**Automation & Integrations**
+
+![Telegram API](https://img.shields.io/badge/Telegram%20API-informational?logo=telegram)
+![aiogram](https://img.shields.io/badge/aiogram-informational)
+![Webhooks](https://img.shields.io/badge/Webhooks-informational)
+![CSV](https://img.shields.io/badge/CSV-informational)
 
 **Tools & Deployment**
 
-![Git](https://img.shields.io/badge/Git-Version_Control-informational?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Code-informational?logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-Deployment-informational?logo=vercel)
+![Git](https://img.shields.io/badge/Git-informational?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-informational?logo=github)
+![Render](https://img.shields.io/badge/Render-informational?logo=render)
+![Vercel](https://img.shields.io/badge/Vercel-informational?logo=vercel)
+![Neon](https://img.shields.io/badge/Neon-informational?logo=neon)
 
 ---
 
 ## 📌 What I'm Working On
 
-- Building full-stack web projects
-- Developing automation tools and Telegram bots
-- Improving backend and database skills
-- Creating production-ready projects for real-world use
+- Building backend and API systems with Python and FastAPI
+- Developing data automation, integrations, and Telegram tools
+- Creating React / TypeScript interfaces for full-stack applications
+- Applying AI-assisted workflows with validation and human review
 
 ---
 
