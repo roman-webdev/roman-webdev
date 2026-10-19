@@ -1,151 +1,69 @@
-# Roman 👋
+# Roman Shalashov 👋
 
-### Full-Stack / Backend Developer | Python, FastAPI, APIs & Automation
+**Python Backend / Full-Stack Developer · APIs & Automation**
 
-I build Python backends, API integrations, and automation tools, with React / TypeScript interfaces and a focus on practical functionality and reliable deployment.
+I build Python backends, data workflows and web applications with FastAPI/Flask, PostgreSQL and React/TypeScript.
+These are independent portfolio projects developed solo with AI-assisted tools. They demonstrate my work, rather than paid client experience; demo and beta limits are stated below.
 
-🌐 **Portfolio:** https://roman-webdev.vercel.app
+[Portfolio](https://roman-webdev.vercel.app/) · [CV — English](https://roman-webdev.vercel.app/cv/Roman_Shalashov_FullStack_CV_EN.pdf) · [CV — Ukrainian](https://roman-webdev.vercel.app/cv/Roman_Shalashov_FullStack_CV_UA.pdf)
 
----
+## Selected projects
 
-## 🚀 Featured Projects
+### HELIXPRIMUS — Customer Operations Workspace
+Customer triage, knowledge-base lookup, response editing and approval, SLA analytics and persisted audit history.
+**FastAPI · React · TypeScript · SQLAlchemy · Alembic**
 
-### [HELIXPRIMUS](https://github.com/roman-webdev/HELIXPRIMUS) — AI Customer Operations Platform
+Portfolio demo with synthetic data, deterministic mock analysis and mock delivery. No real LLM or customer messaging; not production-ready.
 
-Portfolio-grade demo customer operations workspace with Inbox, AI Analysis, Knowledge Base, SLA, analytics, human approval flow, Audit/Timeline, and EN/RU/UA.
+[Live demo](https://helixprimus.vercel.app/) · [GitHub / README](https://github.com/roman-webdev/HELIXPRIMUS#readme)
 
-**Stack:** FastAPI · React · TypeScript · SQLAlchemy · Alembic · SQLite / PostgreSQL-ready
+### AstraSynq — Data Automation & Integrations
+CSV validation and deduplication, authentication/RBAC, and an outbox architecture for webhook and Telegram delivery with retries.
+**FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Alembic**
 
-**Status:** Portfolio Release Candidate / demo-grade — not production-ready.
+Release Candidate. The hosted synthetic demo uses bounded sample imports and simulated deliveries, with no persistent worker or real integrations. Workspace access may require an invitation; not production-ready.
 
-🌐 [Live Demo](https://helixprimus.vercel.app/) · 💻 [GitHub](https://github.com/roman-webdev/HELIXPRIMUS)
+[Synthetic demo](https://astrasynq-synthetic-demo.onrender.com/) · [GitHub / README](https://github.com/roman-webdev/AstraSynq#readme)
 
----
+### MANOR HOUSE — Booking & CRM
+Barbershop booking workflow with availability checks, PostgreSQL persistence, protected admin CRM, schedules and analytics. The implementation includes Telegram notifications.
+**Python · Flask · PostgreSQL · JavaScript · Neon · Render**
 
-### [AstraSynq](https://github.com/roman-webdev/AstraSynq) — Data Automation & Integration Platform
+Portfolio project; admin access is protected. This profile does not claim a commercial deployment or fresh live delivery verification.
 
-Full-stack data automation with CSV validation and deduplication, authentication and RBAC, and reliable webhook / Telegram delivery through a transactional outbox with retries. EN / UA / RU interface and an immersive WebGL landing.
+[Live demo](https://manor-house.onrender.com/) · [GitHub / README](https://github.com/roman-webdev/MANOR-HOUSE#readme)
 
-**Stack:** FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy / Alembic
+### ShopFlow — E-commerce Demo
+Multilingual storefront with product variants, persistent cart, checkout, order storage and admin management.
+**Python · Flask · PostgreSQL · SQLAlchemy · JavaScript**
 
-**Delivery:** Hosted CI · Render Free + Neon Free · Live synthetic demo
+Portfolio demo. Stripe is restricted to test mode, with a mock checkout fallback; no real charges.
 
-**Status:** Release Candidate / synthetic demo — not production-ready.
+[Live demo](https://shopflow-q6r6.onrender.com/) · [GitHub / README](https://github.com/roman-webdev/ShopFlow#readme)
 
-🌐 [Live Demo](https://astrasynq-synthetic-demo.onrender.com/) · 💻 [GitHub](https://github.com/roman-webdev/AstraSynq)
+### SmartSave — Telegram Finance Assistant
+Income and expense tracking, budgets, savings goals, CSV imports and financial summaries.
+**Python · aiogram · SQLite · Telegram Bot API**
 
----
+Beta / Release Candidate. The public repository is a showcase, not the private application source. Live acceptance and production readiness are not claimed here.
 
-### 💈 [MANOR HOUSE](https://github.com/roman-webdev/MANOR-HOUSE) — Booking & CRM System
+[GitHub showcase / README](https://github.com/roman-webdev/SmartSave#readme)
 
-Multilingual barbershop booking platform with online scheduling, PostgreSQL database, Telegram notifications and a protected CRM dashboard for managing clients, bookings and business operations.
+### DRIVEFIX — Auto-service UI Redesign
+Responsive auto-service interface with service selection and a synthetic booking confirmation running entirely in the browser.
+**HTML · CSS · JavaScript · Cloudflare Pages**
 
-**Focus:** Web Development · Booking Systems · Business Automation  
-**Stack:** Python · Flask · PostgreSQL · JavaScript · Telegram API · Neon · Render
+**UI / browser-only demo — no backend, real submissions or Telegram notifications.** The legacy Flask/Render project and experimental Cloudflare Worker lab are separate revisions, not the backend of this demo.
 
-🌐 [Live Demo](https://manor-house.onrender.com) · 💻 [Source Code](https://github.com/roman-webdev/MANOR-HOUSE)
+[Current Pages demo](https://drivefix-ua.pages.dev/) · [GitHub / README — legacy source and revision notes](https://github.com/roman-webdev/DRIVEFIX#readme) · [Legacy frontend](https://roman-webdev.github.io/DRIVEFIX/)
 
----
+## Background & toolkit
 
-### 🛍️ [ShopFlow](https://github.com/roman-webdev/ShopFlow) — Full-Stack E-commerce Platform
+Bachelor's degree in Cybersecurity, V. N. Karazin Kharkiv National University.
+Working English for documentation, correspondence and conversation.
 
-Multilingual e-commerce platform with product variants, persistent cart, checkout, PostgreSQL order management and a protected admin dashboard.
+Python · FastAPI · Flask · React · TypeScript · JavaScript · PostgreSQL · SQLite · SQLAlchemy · Alembic · REST APIs · Webhooks · Git · Cloudflare Pages · Render · Vercel
 
-**Focus:** E-commerce · Full-Stack Development · Business Automation  
-**Stack:** Python · Flask · PostgreSQL · SQLAlchemy · JavaScript · Stripe API · Neon · Render
+Open to Python backend, full-stack and automation opportunities.
 
-🌐 [Live Demo](https://shopflow-q6r6.onrender.com) · 💻 [Source Code](https://github.com/roman-webdev/ShopFlow)
-
----
-
-### 🚗 [DriveFix](https://github.com/roman-webdev/DRIVEFIX) — Auto Service Website
-
-Multilingual responsive auto-service website with service booking, frontend and server-side validation, backend API and Telegram integration for receiving customer requests.
-
-**Focus:** Web Development · Responsive Design · API Integration  
-**Stack:** Python · Flask · JavaScript · HTML · CSS · Telegram API · Render
-
-💻 [Source Code](https://github.com/roman-webdev/DRIVEFIX)
-
----
-
-### 💰 [SmartSave](https://github.com/roman-webdev/SmartSave) — Personal Finance Telegram Assistant
-
-SmartSave Beta 1.3.14 — Telegram finance assistant for tracking income and expenses, managing budgets and savings goals, importing bank transactions and generating financial insights. Release Candidate / controlled beta deployment in an Oracle Linux deployment context; 454 automated tests passed, 0 skipped. Languages: UA / EN / RU.
-
-**Focus:** Python · Telegram Bots · Automation · Financial Tools  
-**Stack:** Python · aiogram · SQLite · Telegram Bot API · CSV Processing
-
-💻 [Source Code](https://github.com/roman-webdev/SmartSave)
-
----
-
-### 👨‍💻 Personal Portfolio — Full-Stack Developer Portfolio
-
-Responsive multilingual developer portfolio showcasing production projects, technical skills and live applications with a clean interface optimized for desktop, tablet and mobile.
-
-**Focus:** Portfolio Development · Frontend · Responsive Design  
-**Stack:** HTML · CSS · JavaScript · Vercel
-
-🌐 [Live Demo](https://roman-webdev.vercel.app)
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-informational?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-informational?logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-informational?logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-informational?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-informational?logo=css)
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-informational?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-informational?logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-informational?logo=flask)
-![REST API](https://img.shields.io/badge/REST%20API-informational)
-
-**Data**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-informational?logo=sqlite)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-informational?logo=sqlalchemy)
-![Alembic](https://img.shields.io/badge/Alembic-informational)
-
-**Automation & Integrations**
-
-![Telegram API](https://img.shields.io/badge/Telegram%20API-informational?logo=telegram)
-![aiogram](https://img.shields.io/badge/aiogram-informational)
-![Webhooks](https://img.shields.io/badge/Webhooks-informational)
-![CSV](https://img.shields.io/badge/CSV-informational)
-
-**Tools & Deployment**
-
-![Git](https://img.shields.io/badge/Git-informational?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-informational?logo=github)
-![Render](https://img.shields.io/badge/Render-informational?logo=render)
-![Vercel](https://img.shields.io/badge/Vercel-informational?logo=vercel)
-![Neon](https://img.shields.io/badge/Neon-informational?logo=neon)
-
----
-
-## 📌 What I'm Working On
-
-- Building backend and API systems with Python and FastAPI
-- Developing data automation, integrations, and Telegram tools
-- Creating React / TypeScript interfaces for full-stack applications
-- Applying AI-assisted workflows with validation and human review
-
----
-
-## 🔗 Links
-
-🌐 **Portfolio:** https://roman-webdev.vercel.app  
-💻 **GitHub:** https://github.com/roman-webdev
-
----
-
-### Open to new projects and development opportunities.
+[Email](mailto:kzena2000@gmail.com) · [Telegram](https://t.me/RN_SV7) · [Portfolio](https://roman-webdev.vercel.app/)
